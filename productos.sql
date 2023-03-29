@@ -24,9 +24,7 @@ SET time_zone = "+00:00";
 
 -- --------------------------------------------------------
 
---
--- Estructura de tabla para la tabla `productos`
---
+
 
 CREATE TABLE `productos` (
   `CODIGO_ARTICULO` varchar(4) NOT NULL,
