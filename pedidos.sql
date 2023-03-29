@@ -2,10 +2,7 @@
 -- version 4.7.9
 -- https://www.phpmyadmin.net/
 --
--- Servidor: 127.0.0.1
--- Tiempo de generación: 05-04-2018 a las 01:37:36
--- Versión del servidor: 10.1.31-MariaDB
--- Versión de PHP: 7.2.3
+
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET AUTOCOMMIT = 0;
