@@ -1,16 +1,15 @@
 
-
-
-
 public class C0038Enums02 {
 
         public class EjemploEnum {
             public static void main(String[] args) {
+
                 // Accediendo a los valores del enum
                 Mes[] meses = Mes.values();
                 for (Mes mes : meses) {
                     System.out.println(mes);
                 }
+
 
                 // Comparando enums
                 Mes mes1 = Mes.FEBRERO;
